@@ -1,0 +1,28 @@
+{
+  "pedidos": [
+    {
+      "transaction_id": "3603d457-3976-483e-87b7-7e8a14169bc3",
+      "external_code": "3603d457-3976-483e-87b7-7e8a14169bc3",
+      "status": "waiting_payment",
+      "valor": 1990,
+      "nome": "C9GAMERR",
+      "email": "viraliza365@gmail.com",
+      "cpf": "00000000000",
+      "utm_params": "{}",
+      "created_at": "2026-04-09 17:30:49",
+      "updated_at": "2026-04-09 17:30:54"
+    },
+    {
+      "transaction_id": "a6be5f09-c444-4166-9240-d3cd6e3400c0",
+      "external_code": "a6be5f09-c444-4166-9240-d3cd6e3400c0",
+      "status": "waiting_payment",
+      "valor": 7144,
+      "nome": "C9GAMERR",
+      "email": "viraliza365@gmail.com",
+      "cpf": "00000000000",
+      "utm_params": "{}",
+      "created_at": "2026-04-09 18:05:20",
+      "updated_at": null
+    }
+  ]
+}
